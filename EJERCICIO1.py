@@ -8,5 +8,5 @@
 # Se solicita el nombre de usuario:
 nombre_usuario = input("introduce tu nombre de usuario: ")
 
-print(f"¡Hola {nombre_usuario}!")   #se ingresa cualquier nombre
+print(f"¡Hola {nombre_usuario}!")   #se ingresa cualquier nombre..
 
